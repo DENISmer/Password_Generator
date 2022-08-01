@@ -7,5 +7,6 @@ page</a>
 Also i use <a href="https://pypi.org/project/auto-py-to-exe/">auto-py-to-exe</a> to make .exe file. With auto-py-to-exe u can make folder with .exe
 file or make only .exe file without folder consist of .dll's (check this <a href="https://github.com/DENISmer/Password_Generator/tree/master/output">output</a>)
 
+![image](https://user-images.githubusercontent.com/90347179/182113943-7e55d318-15f1-40fb-8a96-527f244aca91.png)
 
 
