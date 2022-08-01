@@ -9,4 +9,6 @@ file or make only .exe file without folder consist of .dll's (check this <a href
 
 ![image](https://user-images.githubusercontent.com/90347179/182113943-7e55d318-15f1-40fb-8a96-527f244aca91.png)
 
+![image](https://user-images.githubusercontent.com/90347179/182114042-6e7f98de-5d8e-453f-9661-3d1dc7745982.png)
 
+![image](https://user-images.githubusercontent.com/90347179/182114085-bcc0e7fb-dd14-477a-b4f7-0c04d0c28e09.png)
